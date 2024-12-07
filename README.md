@@ -1,10 +1,59 @@
+# 🎩 Hey there, I'm Mitchell Artz!  
+
+## Who Am I?
+I’m a human who loves asking, “What happens if we push this button?” and then building systems to make sure nothing catches fire. I thrive in the spaces where **data, maps, and security** collide—because why settle for one obsession when you can juggle three?
+
+By day, I’m a **data analyst**, **cybersecurity enthusiast**, and **full-stack developer**. By night, I’m in my **home lab**, tinkering with GIS tools, honing my honeypots (pun intended), and turning raw data into something you’d actually want to look at. My work revolves around **curiosity, creativity, and coffee-fueled problem-solving**, all wrapped up with a love of automation, optimization, and the **open-source community**.
+
+I don’t just code—I explore, break, and rebuild until the results speak for themselves.
+
+## 🛠️ My Toolbox of Doom / Chaos Bucket
+I dabble in everything from **dev** to **ops**, with a sprinkle of **GIS magic** and a dash of **automation wizardry**:
+- **Languages**: Python 🐍 (my first love), SQL (of course), C++ (for the thrill of pain), COBOL, Ada, C#, JS, PS, TS, COW. Plus a boatload more
+- **Backend**: Django, FastAPI, Flask
+- **Frontend**: React, Streamlit,
+- **Geospatial Mastery**: ArcGIS Pro, QGIS, KeplerGL
+- **DevOps Alchemy**: Docker, Kubernetes, GitHub Actions, Cloudflare
+- **Databases**: PostgreSQL (with PostGIS flair), Oracle, MongoDB
+- **Data Science Kung Fu**: pandas, matplotlib, seaborn, plotly, geopandas, dask
+
+## 🌟 What’s Cooking?
+1. **A Filmmaker-Fan Platform**: Combining Django + React to connect creators and their audiences.
+2. **GeoNode Hosting**: Running my own mapping setup because I like having the whole world at my fingertips.
+3. **Home Automation**: Teaching my devices to obey me with Home Assistant, because I’m not above bossing around my tech.
+4. **CHAOS**
+5. etc
+6. etc
+7. etc
+
+## 🛡️ My powers
+- **Data Detective**: I don’t just find insights; I hunt them down, throw them them into pretty graphs, and make them tell a story.
+- **Cybersecurity Tactician**: I study hackers by running honeypots. Think of it as hosting unwanted guests, but for science.
+- **Geospatial Wizard**: I turn data into maps that even Google would raise an eyebrow at.
+- **Full-Stack Builder**: Backend, frontend, side quests. If it’s code, I’ve probably debugged it (and cried a little in the process).
+- **Automation Guru**: If it can be automated, it will be automated.
+- **Open-Source Advocate**: I believe the best things in tech are free, collaborative, and community-driven.
+
+## 📚 Always Learning, Always Growing
+I live by the philosophy that **curiosity is king**. Whether it’s diving into **GIS tech**, **DevOps tools**, or figuring out why my Docker container's time zone is off, I’m always up for a challenge.
+
+My go-to resources? The occasional 2 a.m. rabbit hole on Stack Overflow. I approach learning like I approach my tech stack: **broad, deep, and caffeinated.**
+
+## 🌐 Connect with Me
+If you’ve made it this far, we’re probably destined to collaborate. Let’s make cool stuff together:
+- **Website**: [artzmainpage](https://artz.ca)
+- **GitHub**: [github.com/MitchellArtz](https://github.com/MitchellArtz)
+- **LinkedIn**: [linkedin.com/in/mitchellartz](https://linkedin.com/in/mitchellartz)
+
+# Stats and such
+
 <div align="center">
   <a href="https://github.com/MitchellArtz/MitchellArtz">
     <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak">
   </a>
   <h2>📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" style="border-radius: 15px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mitchellartz&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" style="border-radius: 15px;">
   </div>
   <hr>
   <h1>💻 Tech Stack</h1>
